@@ -1,0 +1,5 @@
+gradio as gr
+librosa
+soundfile as sf
+torch
+transformers
