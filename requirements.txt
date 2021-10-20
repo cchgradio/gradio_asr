@@ -1,5 +1,4 @@
-gradio as gr
+gradio
 librosa
-soundfile as sf
 torch
 transformers
